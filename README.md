@@ -1,1 +1,1 @@
-This is my first git project!
+A copy of the google homepage for Odin Project
